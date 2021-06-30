@@ -22,7 +22,7 @@ npm install
 npm start
 ```
 
-### Cloud Firestore rules
+### Cloud Firestore Rules
 **Replace the default firestore rules to the following code to allow the logged in users enter the chat room**
 ```sh
 rules_version = '2';

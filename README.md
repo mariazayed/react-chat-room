@@ -2,6 +2,8 @@
 
 **This project is a good starting point for any realtime project**
 
+[**Check the live preview**](https://reactjs-chat-room.herokuapp.com/)
+
 ### Features
 * **Security:** the logged in users ONLY allowed to enter the chat room
 * **Sign in with Google accounts**

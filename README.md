@@ -1,4 +1,4 @@
-# React + Firebase
+# React + Firebase 🔥
 
 **This project is a good starting point for any realtime project**
 
